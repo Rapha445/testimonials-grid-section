@@ -40,9 +40,14 @@ html {
 
   /* BODY STYLES */
 
+main {
+    background-color: var(--light_grayish_blue);
+    width: 100%;
+}
+    
+
 .container {
     max-width: 375px;
-    background-color: var(--light_grayish_blue);
     margin: 0 auto;
     padding: 2.5rem 0;
 }
